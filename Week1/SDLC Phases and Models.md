@@ -26,7 +26,7 @@ Installing the software, configuring it, and ensuring that it is running smoothl
 7.	**Maintenance:** 
 Fixing bugs and defects, updating the software to meet changing requirements, and ensuring that it remains secure and reliable.
 
-## SDLC MOdels
+## SDLC Models
 
 ## Waterfall Model
 
