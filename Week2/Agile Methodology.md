@@ -58,4 +58,5 @@ Agile provides us with a framework where continuous improvements happen in SDLC 
 
 ## Agile follows the Plan-Design-Build-Test-Review Approach
 
+
 ![agile-methodology-chicago](https://user-images.githubusercontent.com/128154979/226672277-e916641d-0b93-43cd-a9ea-78a5d55f9aaf.png)
