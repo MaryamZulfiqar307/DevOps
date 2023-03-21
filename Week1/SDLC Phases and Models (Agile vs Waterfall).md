@@ -68,3 +68,4 @@ These models were introduced to cover the shortcomings of the waterfall model bu
 -	Each sprint includes planning, development and testing phase.
 -	Ensures team collaboration and customer involvement. 
 
+(Detailed discussion on Agile Methodology in Week2)
