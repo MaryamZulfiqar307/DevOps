@@ -17,7 +17,7 @@ Now that we've discussed what Agile is, lets discover one of many Agile framewor
 
 ![9 Practices of XP](https://user-images.githubusercontent.com/128154979/226687902-8d0b5d58-9397-439c-b8e1-07300a2b89d3.jpg)
 
-1.  **Planning Game:** This involves both the development team and the customer. The customer prioritizes the requirements, and the team estimates the effort required to implement them. This approach enables the team to focus on delivering the highest value features first.
+1.  **Planning Game:** This involves both the development team and the customer. The customer prioritizes the requirements(stories), and the team estimates the effort required to implement them(tasks). This approach enables the team to focus on delivering the highest value features first.
 
 2.  **Small Releases:** XP emphasizes the delivery of small, working increments of software. This practice allows the customer to see progress and provide feedback early in the development process.
  
