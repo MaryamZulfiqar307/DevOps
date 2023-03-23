@@ -17,19 +17,18 @@ Git is a popular version control system used in Agile development.
 
 # Git Repository Guidelines
 
-1. Branching Strategy: 
-   Teams should create a new branch for each feature or user story, and merge it into the main branch once complete and tested.
+1. **Branching Strategy:** Teams should create a new branch for each feature or user story, and merge it into the main branch once complete and tested.
 
-2. Committing Code: 
+2. **Committing Code:**
    Commit small changes focused on a single feature or change, and commit frequently to keep a history of changes.
 
-3. Code Review: 
+3. **Code Review:** 
    Review code before merging it into the main branch to ensure it meets coding standards and doesn't introduce bugs.
 
-4. Continuous Integration and Deployment: 
+4. **Continuous Integration and Deployment:** 
    Teams should automate testing and deployment processes to ensure that changes are tested and deployed quickly. 
 
-5. Versioning: 
+5. **Versioning:** 
    Teams should use versioning to keep track of changes and releases. This includes creating tags for each release and ensuring that version numbers are consistent across all components of the system.
 
 By following these guidelines, teams can ensure that their Git repository is well-maintained and supports the Agile development process.
