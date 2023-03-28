@@ -56,7 +56,7 @@ It has four core elements:
    Teams should automate testing and deployment processes to ensure that changes are tested and deployed quickly. 
 
 5. **Versioning:** 
-   Teams should use versioning to keep track of changes and releases. This includes creating tags(_tag is like a branch only that it doesnt changes when a new commit is made _) for each release and ensuring that version numbers are consistent across all components of the system.
+   Teams should use versioning to keep track of changes and releases. This includes creating tags( _tag is like a branch only that it doesnt changes when a new commit is made_ ) for each release and ensuring that version numbers are consistent across all components of the system.
 
 By following these guidelines, teams can ensure that their Git repository is well-maintained and supports the Agile development process.
 
